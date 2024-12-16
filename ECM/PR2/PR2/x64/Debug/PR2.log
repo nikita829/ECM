@@ -1,0 +1,3 @@
+﻿  PR2.cpp
+D:\Studies\ECM\PR2\PR2.cpp(17,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PR2.vcxproj -> D:\Studies\ECM\PR2\x64\Debug\PR2.exe
